@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56360" started-at="2019-04-27T00:41:10Z" finished-at="2019-04-27T00:42:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56360" started-at="2019-04-27T00:41:10Z" finished-at="2019-04-27T00:42:07Z">
+      <class name="org.testing.TestCases.TC1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testing.TestCases.TC1@eafc191]" name="launch" is-config="true" duration-ms="11219" started-at="2019-04-27T00:41:10Z" finished-at="2019-04-27T00:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.testing.TestCases.TC1@eafc191]" name="test" duration-ms="37987" started-at="2019-04-27T00:41:22Z" finished-at="2019-04-27T00:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.testing.TestCases.TC1@eafc191]" name="AfterMethod" is-config="true" duration-ms="7118" started-at="2019-04-27T00:42:00Z" finished-at="2019-04-27T00:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- org.testing.TestCases.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
